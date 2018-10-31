@@ -1,0 +1,55 @@
+
+instructions for using the courier System
+
+user Names and passwords
+
+		Administration session
+		
+		
+	DB ( Test , Table Login )
+
+
+		username: yves
+		password: 12345
+
+		username: yvan
+		password: 12345
+
+		username: Bonheur
+		password: 12345
+
+
+
+
+		User session
+
+	DB ( registration , Table users )
+
+		username: mahama
+		password: 12345
+
+		username: yvette
+		password: 12345
+
+		username: yves
+		password: 12345
+
+
+
+
+
+	DataBases
+
+
+			Main DataBases Are: 
+
+			courier System
+			
+			
+angular
+crud_oop
+registration
+test1
+test2
+
+
